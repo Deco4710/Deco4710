@@ -12,5 +12,5 @@
 **🛠️ Infra and Tools**
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
-![header]![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})
+![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kiyoung})
